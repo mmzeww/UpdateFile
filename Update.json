@@ -1,16 +1,14 @@
 {
-  "homepage": "<www.baidu.com>",
-  "<1.10.2>": {
-    "<0.1.5>": "<没有任何更新>", 
-    // 列出对应Minecraft版本的所有Mod版本，以及它们对应的更新日志
-    ...
-  },
-  ...
-  "promos": {
-    "<1.10.2>-latest": "<0.1.5>",
-    // 这是填对应Minecraft版本的Mod的最新版本
-    "<1.10.2>-recommended": "<0.1.0>",
-    // 这里填对应Minecraft版本的Mod的最新稳定版本
-    ...
+    "homepage": "http://www.hxtot.pub/trcdownload.html",
+    "promos": {
+    "1.10.2-latest": "0.1.4-alpha",
+    "1.10.2-recommended": "0.1.4-alpha",
+      },
+    "1.10.2": {
+    "0.1.0": "A new Mod! The Mod is add too much things.",
+    "0.1.1": "Cinnabar is coming soon!You can use this in the future.",
+    "0.1.2": "There are too much Jade now.",
+    "0.1.3-alpha": "It is some fungus.",
+    "0.1.4-alpha": "A test verison.",
   }
 }
