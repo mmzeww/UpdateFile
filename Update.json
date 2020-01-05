@@ -1,16 +1,16 @@
 {
   "homepage": "<www.baidu.com>",
   "1.12.2": {
-    "0.0.0.1": "text",
-    "0.0.0.2": "let we start all!",
+    "0.0.1": "text",
+    "0.0.2": "let we start all!",
     // List all versions of your mod for the given Minecraft version, along with their changelogs
     ...
   },
   ...
   "promos": {
-    "1.12.2-latest": "0.0.0.2",
+    "1.12.2-latest": "0.0.2",
     // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "1.12.2-recommended": "0.0.0.2",
+    "1.12.2-recommended": "0.0.2",
     // Declare the latest "stable" version of your mod for the given Minecraft version
     ...
   }
