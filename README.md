@@ -5,4 +5,4 @@ Your TRC Mod need to update now!
 
 以下为更新日志 Here are update log.
 
-#0.0.0.1 First Ver.
+0.0.0.1 First Ver.
