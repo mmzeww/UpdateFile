@@ -1,13 +1,14 @@
 {
   "homepage": "<www.hxtot.pub>",
+
+  "promos": {
+    "1.12.2-latest": "0.0.1.0",
+    "1.12.2-recommended": "0.0.1.0"
+  } 
   "1.12.2": {
     "0.0.0.1": "text",
     "0.0.0.2": "Add too much things.",
     "0.0.0.3": "To try the new way.",
     "0.0.1.0": "A big Change for main files.",
   },
-  "promos": {
-    "1.12.2-latest": "0.0.1.0",
-    "1.12.2-recommended": "0.0.1.0",
-  }
 }
