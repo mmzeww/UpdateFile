@@ -2,8 +2,8 @@
   "homepage": "http://www.hxtot.pub",
 
   "promos": {
-    "1.12.2-latest": "0.2.0",
-    "1.12.2-recommended": "0.2.0"
+    "1.12.2-latest": "0.1.10",
+    "1.12.2-recommended": "0.1.10"
   } ,
   "1.12.2": {
     "0.0.1": "text",
@@ -16,6 +16,7 @@
     "0.1.6": "corp add",
     "0.1.7": "Fes(Lunar year) things add,such as glass and food.",
     "0.1.8": "Add new meat to the game about 2019-nCoV",
-    "0.1.9": ""
+    "0.1.9": "Recipes update",
+    "0.1.10": ""
   }
 }
