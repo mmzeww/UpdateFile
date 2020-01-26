@@ -2,16 +2,20 @@
   "homepage": "www.hxtot.pub",
 
   "promos": {
-    "1.12.2-latest": "0.1.5",
-    "1.12.2-recommended": "0.1.4"
-  } 
+    "1.12.2-latest": "0.2.0",
+    "1.12.2-recommended": "0.2.0"
+  } ,
   "1.12.2": {
     "0.0.0.1": "text",
     "0.0.0.2": "Add too much things.",
     "0.0.0.3": "To try the new way.",
     "0.0.1.0": "A big Change for main files.",
-    "0.1.3":"Change a lot and",
-  "0.1.4":"Add under bursh in the world",
-  "0.1.5":"Copper and Bronze Series is add in the mod.",
-  },
+    "0.1.3": "Change a lot and",
+    "0.1.4": "Add under bursh in the world",
+    "0.1.5": "Copper and Bronze Series is add in the mod.",
+    "0.1.6": "corp add",
+    "0.1.7": "Fes(Lunar year) things add",
+    "0.1.8": "",
+    "0.1.9": ""
+  }
 }
